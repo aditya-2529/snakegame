@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "de3db783-e6e0-414c-8720-4776f078744b"
+      }
+    },
+    "android": {
+      "package": "com.envlabs.snake"
+    }
+  }
+}
